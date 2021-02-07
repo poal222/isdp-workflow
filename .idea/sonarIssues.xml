@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/camunda-get-started-spring-boot-Step-3/camunda-get-started-spring-boot-Step-3/src/main/java/org/camunda/bpm/getstarted/loanapproval/WebappExampleProcessApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/camunda-get-started-spring-boot-Step-3/camunda-get-started-spring-boot-Step-3/src/main/java/org/camunda/bpm/getstarted/loanapproval/delegate/AuditDelegate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/camunda-get-started-spring-boot-Step-3/camunda-get-started-spring-boot-Step-3/src/main/java/org/camunda/bpm/getstarted/loanapproval/listener/AssigneeTaskUser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/camunda-get-started-spring-boot-Step-3/camunda-get-started-spring-boot-Step-3/src/main/java/org/camunda/bpm/getstarted/loanapproval/test/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/camunda-get-started-spring-boot-Step-3/camunda-get-started-spring-boot-Step-3/src/main/resources/loanApproval.bpmn">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/camunda-get-started-spring-boot-Step-3/camunda-get-started-spring-boot-Step-3/src/main/resources/putongxunjian.bpmn">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/camunda-get-started-spring-boot-Step-3/camunda-get-started-spring-boot-Step-3/target/classes/loanApproval.bpmn">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/my-project/my-project/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/my-project/my-project/src/main/java/com/example/workflow/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/my-project/my-project/src/main/java/com/example/workflow/IsdpBussinessFlowConstance.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/my-project/my-project/src/main/java/com/example/workflow/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/my-project/my-project/src/main/java/com/example/workflow/test/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/my-project/my-project/src/main/resources/application.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/my-project/my-project/src/main/resources/process.bpmn">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/my-project/my-project/src/test/java/com/example/workflow/WorkflowTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/my-project/my-project/target/classes/application.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/22 高成科技/1、物联网平台/2、代码/server/dev/设备产品-双电压智慧用电double_smartele.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/22 高成科技/1、物联网平台/2、代码/server/dev/设备产品-智慧用电1L4T3U3I_3E_FULL.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/22 高成科技/1、物联网平台/2、代码/server/dev/设备产品-智慧用电ZHYD_SF703.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/22 高成科技/1、物联网平台/2、代码/server/dev/设备产品-智慧用电ZHYD_V20.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/22 高成科技/1、物联网平台/2、代码/server/dev/设备产品-智慧用电ZHYD_VM10.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/22 高成科技/1、物联网平台/2、代码/server/jetlinks-components/common-component/src/main/java/org/jetlinks/pro/authorize/OrgDimensionType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/22 高成科技/1、物联网平台/2、代码/server/jetlinks-manager/device-manager/src/main/java/org/jetlinks/pro/device/service/device/DeviceBaseService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/22 高成科技/1、物联网平台/2、代码/server/jetlinks-manager/device-manager/src/main/java/org/jetlinks/pro/device/web/DeviceInstanceController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/22 高成科技/1、物联网平台/2、代码/server/jetlinks-manager/device-manager/src/main/java/org/jetlinks/pro/device/web/GatewayDeviceController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/22 高成科技/1、物联网平台/2、代码/server/jetlinks-manager/device-manager/src/main/java/org/jetlinks/pro/device/web/device/DeviceBaseControllor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/22 高成科技/1、物联网平台/2、代码/server/jetlinks-standalone/src/main/java/org/jetlinks/pro/standalone/JetLinksApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/22 高成科技/1、物联网平台/2、代码/server/jetlinks-standalone/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/IsdpApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/isdp/se/config/SmartEngineAutoConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/isdp/se/config/SmartEngineProperties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/ceshi.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/smart-engine/ceshi.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/mvnw">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/smart-engine-extension-storage-pgsql/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/smart-engine-extension-storage-pgsql/src/main/java/com/alibaba/smart/framework/engine/persister/database/service/RelationshipDatabaseActivityInstanceStorage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/smart-engine-extension-storage-pgsql/src/main/java/com/alibaba/smart/framework/engine/persister/database/service/RelationshipDatabaseDeploymentInstanceStorage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/smart-engine-extension-storage-pgsql/src/main/java/com/alibaba/smart/framework/engine/persister/database/service/RelationshipDatabaseExecutionInstanceStorage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/smart-engine-extension-storage-pgsql/src/main/java/com/alibaba/smart/framework/engine/persister/database/service/RelationshipDatabaseProcessInstanceStorage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/smart-engine-extension-storage-pgsql/src/main/java/com/alibaba/smart/framework/engine/persister/database/service/RelationshipDatabaseTaskAssigneeInstanceStorage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/smart-engine-extension-storage-pgsql/src/main/java/com/alibaba/smart/framework/engine/persister/database/service/RelationshipDatabaseTaskInstanceStorage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/smart-engine-extension-storage-pgsql/src/main/java/com/alibaba/smart/framework/engine/persister/database/service/RelationshipDatabaseVariableInstanceStorage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/java/com/example/Apple.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/java/com/example/Fruite.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/java/com/example/Plate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/java/com/example/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/java/com/example/demo/DemoApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/java/org/isdp/se/IsdpApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/java/org/isdp/se/MyRestController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/java/org/isdp/se/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/java/org/isdp/se/config/CustomVariablePersister.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/java/org/isdp/se/config/DefaultMultiInstanceCounter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/java/org/isdp/se/config/DefaultTaskAssigneeDispatcher.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/java/org/isdp/se/config/DoNothingLockStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/java/org/isdp/se/config/IsdpBasedIdGenerator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/java/org/isdp/se/config/SmartEngineAutoConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/java/org/isdp/se/config/SmartEngineProperties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/java/org/isdp/se/constant/IsdpBpmAssigneeType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/java/org/isdp/se/constant/IsdpBpmAssigneeTypeConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/java/org/isdp/se/exception/CustomExceptioinProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/java/org/isdp/se/helper/CustomVariablePersister.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/java/org/isdp/se/web/SeGroup.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/resources/log4j.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/resources/logback-spring.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/resources/mybatis-config.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/resources/mybatis/mybatis-config.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/resources/smart-engine/ServiceTaskTest.bpmn20.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/resources/smart-engine/ceshi.bpmn">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/resources/smart-engine/ceshi.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/resources/smart-engine/commonTest.bpmn">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/resources/smart-engine/parallel-gateway-usertask-process.bpmn.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/src/main/resources/smart-engine/putongxunjian.bpmn">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/target/classes/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/target/classes/log4j.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/target/classes/logback-spring.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/reactstudy/demo/target/classes/mybatis/mybatis-config.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

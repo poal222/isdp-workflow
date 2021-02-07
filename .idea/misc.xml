@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="F:/reactstudy/demo/pom.xml" />
+        <option value="$USER_HOME$/Downloads/my-project/my-project/pom.xml" />
+        <option value="$USER_HOME$/Downloads/camunda-get-started-spring-boot-Step-3/camunda-get-started-spring-boot-Step-3/pom.xml" />
+        <option value="F:/22 高成科技/1、物联网平台/2、代码/server/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8 (1)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

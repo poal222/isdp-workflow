@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="authentication-manager" />
+        <module name="coap-component" />
+        <module name="common-component" />
+        <module name="dashboard-component" />
+        <module name="device-manager" />
+        <module name="elasticsearch-component" />
+        <module name="erp-manager" />
+        <module name="gateway-component" />
+        <module name="geo-component" />
+        <module name="http-component" />
+        <module name="ieiot-protocol" />
+        <module name="influxdb-component" />
+        <module name="io-component" />
+        <module name="jetlinks-openapi-core" />
+        <module name="jetlinks-openapi-manager" />
+        <module name="jetlinks-standalone" />
+        <module name="kafka-component" />
+        <module name="logging-component" />
+        <module name="logging-manager" />
+        <module name="mqtt-component" />
+        <module name="network-core" />
+        <module name="network-manager" />
+        <module name="notify-core" />
+        <module name="notify-dingtalk" />
+        <module name="notify-email" />
+        <module name="notify-manager" />
+        <module name="notify-network" />
+        <module name="notify-sms" />
+        <module name="notify-voice" />
+        <module name="notify-wechat" />
+        <module name="plugin-component" />
+        <module name="protocol-component" />
+        <module name="rabbitmq-component" />
+        <module name="rule-engine-component" />
+        <module name="rule-engine-manager" />
+        <module name="simulator-component" />
+        <module name="smart-engine-extension-storage-pgsql" />
+        <module name="smartengineextensionstoragepgsql" />
+        <module name="tcp-component" />
+        <module name="tdengine-component" />
+        <module name="tenant-component" />
+        <module name="timeseries-component" />
+        <module name="udp-component" />
+        <module name="visualization-manager" />
+        <module name="websocket-component" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="smart-engine-extension-storage-pgsql" options="-parameters" />
+    </option>
+  </component>
+</project>
