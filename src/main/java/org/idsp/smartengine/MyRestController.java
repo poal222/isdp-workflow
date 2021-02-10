@@ -120,8 +120,8 @@ public class MyRestController {
 
 		//10.由于流程测试已经关闭,需要断言没有需要处理的人,状态关闭.
 		finalProcessInstance = processQueryService.findById(processInstance.getInstanceId());
-		System.out.println(InstanceStatus.completed);
-		System.out.println(finalProcessInstance.getStatus());
+//		System.out.println(InstanceStatus.completed);
+		System.out.println("getStatus===="+finalProcessInstance.getStatus());
 
 
 		return Mono.just("sdsd");

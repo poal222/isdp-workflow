@@ -1,15 +1,12 @@
 package org.idsp.smartengine;
 
-import org.mybatis.spring.annotation.MapperScan;
+import org.hswebframework.web.crud.annotation.EnableEasyormRepository;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@MapperScan(basePackages = "com.alibaba.smart.framework.engine.persister.database")
-//@ComponentScan(basePackages = {
-//		"com.alibaba.smart.framework.engine.persister"
-//})
+//@MapperScan(basePackages = "com.alibaba.smart.framework.engine.persister.database")
+@EnableEasyormRepository("org.idsp.smartengine.entity")
 public class SmartengineApplication {
 
 	public static void main(String[] args) {
