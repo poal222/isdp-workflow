@@ -11,7 +11,8 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Created by 高海军 帝奇 74394 on 2017 October  07:00.
+ * VariablePersister: 仅用于DataBase模式。默认不需要扩展，业务根据需要进行扩展。
+ * 该类支持根据选定的序列化方式，自动存储 command 里面的 request 参数，同时支持黑名单机制。
  */
 public class CustomVariablePersister implements VariablePersister {
 	private static final Logger LOGGER = LoggerFactory.getLogger(CustomVariablePersister.class);

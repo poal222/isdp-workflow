@@ -5,7 +5,6 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-//@MapperScan(basePackages = "com.alibaba.smart.framework.engine.persister.database")
 @EnableEasyormRepository("org.idsp.smartengine.entity")
 public class SmartengineApplication {
 

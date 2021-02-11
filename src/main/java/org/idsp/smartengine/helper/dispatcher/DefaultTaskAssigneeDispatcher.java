@@ -9,6 +9,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * TaskAssigneeDispatcher:仅用于DataBase模式。必须实现该接口。
+ * 在传统工作流里面，需要设置任务的处理者时，则需要这个接口。
+ */
 public class DefaultTaskAssigneeDispatcher implements TaskAssigneeDispatcher {
 
 	@Override

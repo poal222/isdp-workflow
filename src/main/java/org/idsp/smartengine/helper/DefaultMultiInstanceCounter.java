@@ -10,6 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * MultiInstanceCounter:仅用于DataBase模式，主要用于会签场景
  */
 public class DefaultMultiInstanceCounter implements MultiInstanceCounter {
 
